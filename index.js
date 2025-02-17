@@ -1,1 +1,1 @@
-module.exports = require('./rails-timezone.js');
+module.exports = require('./zendesk-timezone.js');
